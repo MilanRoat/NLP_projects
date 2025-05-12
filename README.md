@@ -1,7 +1,7 @@
 # NLP_projects
 This repo Contains all the NLP based projects Done by Milan Roat
 
-## Stock Sentiment Analysis Using News Haadlines
+## Stock Sentiment Analysis Using News Headlines
 #### This project is a news sentiment and stock trend analysis system that extracts financial news headlines, processes them to identify market trends, and combines them with stock data to determine bullish or bearish patterns. It helps in predicting market sentiments and understanding stock performance based on news and historical trends.
 
 #### Technologies/Libraries Used: Python, BeautifulSoup, TensorFlow/Keras, pandas, NumPy, and LSTM-based neural networks.
